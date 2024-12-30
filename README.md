@@ -9,3 +9,10 @@
 * **LinkedIn:** https://www.linkedin.com/in/dixit-harsh
 
 Let's connect and build something great together!❤️
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh-dixitt&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dixitt&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=harsh-dixitt)
+
